@@ -1,0 +1,56 @@
+.container-fluid {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-top: 4rem!important;
+}
+
+.bg-dark{
+  background-color:#053a6f!important;
+}
+
+.day{
+  background: #E88D07;
+  background: -webkit-linear-gradient(top, #E88D07, #852B07);
+  background: -moz-linear-gradient(top, #E88D07, #852B07);
+  background: linear-gradient(to bottom, #E88D07, #852B07);
+}
+
+.night{
+  background: #000000;
+  background: -webkit-linear-gradient(top, #000000, #1C1353);
+  background: -moz-linear-gradient(top, #000000, #1C1353);
+  background: linear-gradient(to bottom, #000000, #1C1353);
+}
+
+table tr:first-child td {
+  border-top: 0;
+}
+
+.temp{
+  font-size:7em;
+}
+.weather-icon{
+  font-size:5em;
+}
+.weather-detail{
+  text-align: left;
+  border-radius: 20px;
+}
+.detail-col{
+  padding-top: 2rem!important;
+}
+.description{
+  text-transform: capitalize;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
