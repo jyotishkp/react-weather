@@ -1,3 +1,8 @@
 
 ## React Weather
-![Alt text](https://github.com/jyotishkp/react-weather/blob/master/screenshots/mobile.png)
+
+## Mobile
+<img src="https://github.com/jyotishkp/react-weather/blob/master/screenshots/mobile.png" width="250">
+
+## Web
+<img src="https://github.com/jyotishkp/react-weather/blob/master/screenshots/web.png" width="250">
